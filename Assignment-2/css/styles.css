@@ -19,19 +19,19 @@ h1{
 }
 
 #pasta{
-	background-color: blue;	
+	background-color: #f5907c;	
 }
 
 #pizza{
-	background-color: green;
+	background-color: #9ae499;
 }
 
 #chowmein{
-	background-color: purple;
+	background-color: #db99e4;
 }
 
 .dish{
-	margin: 5px;
+	margin: 10px;
 	height: 150px;	
 	border: 1px solid black;
 	background-color: lightgray;
